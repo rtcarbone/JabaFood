@@ -1,4 +1,4 @@
-# Jaba Food Backend User
+# Jaba Food Backend
 
 This is a backend system for a collaborative restaurant management platform developed as part of a tech challenge. The project aims to create a shared, cost-effective solution for restaurant management and customer interaction.
 
@@ -14,7 +14,7 @@ This is a backend system for a collaborative restaurant management platform deve
 - PostgreSQL
 - Docker, Docker Compose
 - Flyway
-- JDBC ---
+- JDBC
 
 ## Prerequisites
 
