@@ -11,7 +11,7 @@
     <groupId>app.jaba</groupId>
     <artifactId>jaba-food-backend</artifactId>
     <version>1.0.1</version>
-    <name>jaba-food-backend-user</name>
+    <name>jaba-food-backend</name>
     <description>Jaba Food App</description>
     <url/>
     <licenses>
